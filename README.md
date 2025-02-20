@@ -1,4 +1,4 @@
-# Hi there, I'm Velumurugan R 👋
+# Hi there, I'm Velmurugan R👋
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves coding, learning new technologies, and solving complex problems.
 
